@@ -1,7 +1,9 @@
 ---
 title: 2025 - Sustainability Report
 url: https://www.peabodyenergy.com/peabody/media/mediaLibrary/2025_peabody_sustainability_report.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Peabody Energy" press release artificial intelligence'
 position: 1
 source: serpapi-google

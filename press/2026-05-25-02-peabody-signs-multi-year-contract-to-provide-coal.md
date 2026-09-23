@@ -1,7 +1,9 @@
 ---
 title: Peabody Signs Multi-Year Contract to Provide Coal ...
 url: https://www.prnewswire.com/news-releases/peabody-signs-multi-year-contract-to-provide-coal-to-midwestern-generating-stations-302428068.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Peabody Energy" press release artificial intelligence'
 position: 2
 source: serpapi-google
